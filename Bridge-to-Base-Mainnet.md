@@ -2,6 +2,10 @@
 
 NOTE: You can only brige CNTO tokens. To bride other tokens such as USDC, you will need to convert them to Cosmos IBC tokens and bridge through other bridges like Axelar, etc.
 
+Please make sure that you convert your CNTO to ERC20 using https://app.arable.finance/#/ibc
+
+If you are having CNTO on other chains such as Osmosis, please transfer them to Acrechain, convert them to ERC20 token and then follow these steps below.
+
 1. Visit Ciento.exchnage
 2. Connect Metamask Wallet
 3. Select Acrechain Mainnet in Metamask
