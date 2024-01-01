@@ -6,7 +6,7 @@ Please make sure that you convert your CNTO to ERC20 using https://app.arable.fi
 
 If you are having CNTO on other chains such as Osmosis, please transfer them to Acrechain, convert them to ERC20 token and then follow these steps below.
 
-1. Visit Ciento.exchnage
+1. Visit [Ciento.exchnage](https://ciento.exchange/)
 2. Connect Metamask Wallet
 3. Select Acrechain Mainnet in Metamask
 4. Click on "All Links" Menu
